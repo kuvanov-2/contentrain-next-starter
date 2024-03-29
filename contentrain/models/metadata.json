@@ -133,6 +133,7 @@
     "localization": false,
     "type": "MD",
     "createdBy": "user",
-    "isServerless": false
+    "isServerless": false,
+    "path": "content/article"
   }
 ]
